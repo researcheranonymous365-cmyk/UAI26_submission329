@@ -1,6 +1,6 @@
-** Efficient Confidence Set Enumeration for Multi-label Conformal Classification **
+**Efficient Confidence Set Enumeration for Multi-label Conformal Classification**
 
-This repository contains all the code and data necessary to reproduce the results of submission n°329 to UAI2026.
+This repository contains all the code and data necessary to reproduce the results of the paper _Efficient Confidence Set Enumeration for Multi-label Conformal Classification_ accepted to UAI2026.
 
 Enumeration methods (as well as their counting variants) can be found in the `enumerators.py` file.
 
